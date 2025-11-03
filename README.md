@@ -7,10 +7,10 @@ A simplified Instagram clone built with Laravel for learning PHP web development
 ## 📋 Development Progress Checklist
 
 ### 🔐 **Authentication Features**
-- [ ] User registration
-- [ ] User login/logout
-- [ ] Password reset
-- [ ] Remember me functionality
+- [X] User registration
+- [X] User login/logout
+- [X] Password reset
+- [X] Remember me functionality
 - [ ] User profile pages
 - [ ] Edit profile information
 
